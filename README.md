@@ -4,6 +4,26 @@
 
 - <b>Vulnerability Management</b>
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- <b>Third Party security Audit</b>
+  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Active Directory Home Lab</b>
+  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>👨‍💻 Certifications:</h2>
+
+<b>Comptia Security + </b>
+
+<b>QualysGuard PCI Compliance Specialist </b>
+
+<b>QualysGuard Vulnerability Management Specialist </b>
+
+<b>Health IT support Specialist </b>
+
+<b>IBM Cybersecurity Analyst</b>
+
+<b>Bachelor of Medicine, Bachelor of Surgery (MBBS) </b>
 
 
 
