@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
-  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
     
 - <b>Third Party security Audit</b>
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
