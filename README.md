@@ -6,7 +6,7 @@
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
     
 - <b>Set up a Virtual Machine(VM) and install a Linux distribution using Azure</b>
-   - [Set up a Virtual Machine(VM) and install a Linux distribution using Azure](https://github.com/DrObii/Set-up-a-VM-and-install-a-Linux-distribution-using-Azure))
+   - [Set up a Virtual Machine(VM) and install a Linux distribution using Azure](https://github.com/DrObii/Set-up-a-VM-and-install-a-Linux-distribution-using-Azur)
  
 - <b>Conduct an ISO 27001 Risk Assessment</b>
    - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
