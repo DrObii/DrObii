@@ -11,8 +11,6 @@
 - <b>Conduct an ISO 27001 Risk Assessment</b>
    - [Conduct an ISO 27001 Risk Assessment](https://github.com/DrObii/Conduct-ISO-27001-Risk-Assessment)
 
- - <b>Set up a SIEM in Azure (Sentinel)</b>
-  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
 - <b>Implement ISO 27001 Controls</b>
   - [Implement ISO 27001 Controls](https://github.com/DrObii/Implement-ISO-27001-Controls)
 
