@@ -6,16 +6,16 @@
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
     
 - <b>Set up a SIEM in Azure (Sentinel)</b>
-  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
  
 - <b>Set up a Virtual Machine(VM) and install a Linux distribution using Azure</b>
-  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
  
 - <b>Conduct an ISO 27001 Risk Assessment</b>
-  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
  
 - <b>Implement ISO 27001 Controls</b>
-  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
 
 <h2>👨‍💻 Certifications:</h2>
 
