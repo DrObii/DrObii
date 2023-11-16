@@ -5,10 +5,16 @@
 - <b>Vulnerability Management</b>
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
     
-- <b>Third Party security Audit</b>
+- <b>Set up a SIEM in Azure (Sentinel)</b>
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
  
-- <b>Active Directory Home Lab</b>
+- <b>Set up a Virtual Machine(VM) and install a Linux distribution using Azure</b>
+  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Conduct an ISO 27001 Risk Assessment</b>
+  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Implement ISO 27001 Controls</b>
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Certifications:</h2>
@@ -18,6 +24,8 @@
 <b>QualysGuard PCI Compliance Specialist </b>
 
 <b>QualysGuard Vulnerability Management Specialist </b>
+
+<b>ISO/IEC 27001:2022 Information Security Associate </b>
 
 <b>Health IT support Specialist </b>
 
