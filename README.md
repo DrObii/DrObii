@@ -9,7 +9,7 @@
    - [Set up a Virtual machine (VM) and install a Linux distribution using Azure](https://github.com/DrObii/Set-up-a-VM-and-install-a-Linux-distribution-using-Azure)
  
 - <b>Conduct an ISO 27001 Risk Assessment</b>
-   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
+   - [Conduct an ISO 27001 Risk Assessment](https://github.com/DrObii/Conduct-ISO-27001-Risk-Assessment)
 
  - <b>Set up a SIEM in Azure (Sentinel)</b>
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
