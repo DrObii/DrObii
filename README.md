@@ -14,7 +14,7 @@
  - <b>Set up a SIEM in Azure (Sentinel)</b>
   - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
 - <b>Implement ISO 27001 Controls</b>
-  - [Perform Vulnerability management lifecycle on a virtualized environment](https://github.com/DrObii/Vulnerability-Management-Lab)
+  - [Implement ISO 27001 Controls](https://github.com/DrObii/Implement-ISO-27001-Controls)
 
 <h2>👨‍💻 Certifications:</h2>
 
